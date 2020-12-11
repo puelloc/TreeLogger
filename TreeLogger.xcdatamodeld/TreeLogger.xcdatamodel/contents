@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="16119" systemVersion="19H15" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Tree" representedClassName="Tree" syncable="YES">
+        <attribute name="adult_height" optional="YES" attributeType="String"/>
+        <attribute name="img" optional="YES" attributeType="Binary" allowsExternalBinaryDataStorage="YES"/>
+        <attribute name="plant_date" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="ready" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="ready_date" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="species" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Tree" positionX="-63" positionY="-18" width="128" height="133"/>
+    </elements>
+</model>
